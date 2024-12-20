@@ -72,7 +72,7 @@ timeslot = "*"
 tomlkit = "*"
 
 [[package]]
-name = "aw-watcher-afk"
+name = "aa-watcher-afk"
 version = "0.2.0"
 description = "AFK watcher for ActivityWatch"
 optional = false
@@ -88,7 +88,7 @@ python-xlib = {version = "0.31", markers = "sys_platform == \"linux\""}
 
 [package.source]
 type = "git"
-url = "https://github.com/ActivityWatch/aw-watcher-afk.git"
+url = "https://github.com/saisai/aa-watcher-afk.git"
 reference = "HEAD"
 resolved_reference = "9f9a4fd3c51635ba362a51ac8e7bc47abd56fa05"
 

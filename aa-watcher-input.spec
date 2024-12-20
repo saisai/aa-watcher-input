@@ -2,10 +2,10 @@
 
 block_cipher = None
 
-name = "aw-watcher-input"
+name = "aa-watcher-input"
 
 
-a = Analysis(['src/aw_watcher_input/__main__.py'],
+a = Analysis(['src/aa_watcher_input/__main__.py'],
              pathex=[],
              binaries=None,
              datas=None,
